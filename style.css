@@ -9,6 +9,14 @@ body{
     background-size: cover;
     
 }
+.back{
+  background-image: url(assets/5.jpg);
+ 
+  background-repeat: no-repeat;
+ 
+  background-size: cover;
+  
+}
 
 /* .color{
   background-color: white;
